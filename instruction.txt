@@ -1,0 +1,11 @@
+Students
+		
+		Teachers
+
+
+http://localhost:3000/api/serviceName/actionName
+
+http://localhost:3000/api/teacher/showStudent
+
+			
+	
